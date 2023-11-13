@@ -49,3 +49,6 @@ Also, feel free to imitate the sending of bunch messages to queue by running [se
 ```shell
 bash send-message-in-a-loop.sh
 ```
+
+## Contribution
+We are happy to see your involvement in this and other projects! Feel free to create a PR with any improvements and bug fixes to this repo! Once you will create a PR, ping coach or mentor and ask them to review it! It could be a first step to your open source contribution!

@@ -16,5 +16,4 @@ public class QueueConfig {
   public Jackson2JsonMessageConverter producerJackson2MessageConverter() {
     return new Jackson2JsonMessageConverter();
   }
-
 }
